@@ -1,0 +1,6 @@
+# video frames
+frames/
+
+# python
+venv/
+__pycache__/
